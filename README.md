@@ -1,4 +1,15 @@
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img width="450px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+
+#### 👋 Hi there! I'm a passionate Data Analyst with a knack for turning raw data into actionable insights. Welcome to my GitHub profile!
+
+#### 🔍 About Me:
+<ul> 
+<li> I specialize in data visualization, statistical analysis, and predictive modeling.</li>
+<li> Proficient in Python and SQL, with experience in using libraries like Pandas, NumPy, and Matplotlib.</li>
+<li>  I enjoy exploring data to uncover trends and patterns that drive business decisions.</li>
+</ul>
+
+#### 🔭 I’m currently improving and honing my skills for data analysis
 
 ## Languages and Tools
 <img src="https://img.shields.io/badge/Python-033431?style=for-the-badge&logo=Python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Pandas-033431?style=for-the-badge&logo=Pandas&logoColor=FFFFFF"/> 
@@ -18,18 +29,16 @@
 <img src="https://img.shields.io/badge/Git-230030?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-230030?style=for-the-badge&logo=GitHub&logoColor=white"/> 
 <img src="https://img.shields.io/badge/GitLab-230030?style=for-the-badge&logo=GitLab&logoColor=white"/> 
 
+## My projects
+<ul> 
+<li> E-commerce - https://github.com/m-sadikzade/pet-projects/tree/master/Промежуточный%20проект%20e-commerce</li>
+</ul>
 
-<!--
-**m-sadikzade/m-sadikzade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My courses
+| Topic | Start | End | Done |
+| -------- | -------- | -------- | -------- |
+| <a href="https://informatics.ru/" style="text-decoration:none">School of Programmers</a> | August 2018 | June 2023 | ✅ |
+| <a href="https://stepik.org/cert/2182705?lang=en" style="text-decoration:none">Python Programming</a> | August 2023 | September 2023 | ✅ |
+| <a href="https://stepik.org/cert/2191584?lang=en" style="text-decoration:none">Interactive SQL Simulator</a> | September 2023 | October 2023 | ✅ |
+| <a href="https://stepik.org/cert/2191584?lang=en" style="text-decoration:none">Data Analyst from Karpov Courses</a> | May 2024 | October 2024 | ✅ |
