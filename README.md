@@ -4,7 +4,7 @@
             <img width="325px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
         </td>
         <td>
-            <h3>👋Hi there! I'm a passionate Data Analyst with a knack for turning raw data into actionable insights.<br> Welcome to my GitHub profile!</h3>  
+            <h3>👋Hi there! I'm a passionate Data Analyst with a knack for turning raw data into actionable insights.<br><br> Welcome to my GitHub profile!</h3>  
         </td>
     </tr>
 </table>
