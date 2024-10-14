@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
 ## Languages and Tools
 <img src="https://img.shields.io/badge/Python-033431?style=for-the-badge&logo=Python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Pandas-033431?style=for-the-badge&logo=Pandas&logoColor=FFFFFF"/> 
 <img src="https://img.shields.io/badge/Numpy-033431?style=for-the-badge&logo=Numpy&logoColor=FFFFFF"/> 
@@ -15,8 +17,6 @@
 
 <img src="https://img.shields.io/badge/Git-230030?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-230030?style=for-the-badge&logo=GitHub&logoColor=white"/> 
 <img src="https://img.shields.io/badge/GitLab-230030?style=for-the-badge&logo=GitLab&logoColor=white"/> 
-
-
 
 
 <!--
