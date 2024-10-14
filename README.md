@@ -1,6 +1,14 @@
-<img width="450px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+<table>
+    <tr>
+        <td>
+            <h4>👋 Hi there! I'm a passionate Data Analyst with a knack for turning raw data into actionable insights. Welcome to my GitHub profile!</h4>
+        </td>
+         <td>
+            <img width="450px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+        </td>
+    </tr>
+</table>
 
-#### 👋 Hi there! I'm a passionate Data Analyst with a knack for turning raw data into actionable insights. Welcome to my GitHub profile!
 
 #### 🔍 About Me:
 <ul> 
@@ -38,7 +46,10 @@
 ## My courses
 | Topic | Start | End | Done |
 | -------- | -------- | -------- | -------- |
-| <a href="https://informatics.ru/" style="text-decoration:none">School of Programmers</a> | August 2018 | June 2023 | ✅ |
-| <a href="https://stepik.org/cert/2182705?lang=en" style="text-decoration:none">Python Programming</a> | August 2023 | September 2023 | ✅ |
-| <a href="https://stepik.org/cert/2191584?lang=en" style="text-decoration:none">Interactive SQL Simulator</a> | September 2023 | October 2023 | ✅ |
 | <a href="https://stepik.org/cert/2191584?lang=en" style="text-decoration:none">Data Analyst from Karpov Courses</a> | May 2024 | October 2024 | ✅ |
+| <a href="https://stepik.org/cert/2191584?lang=en" style="text-decoration:none">Interactive SQL Simulator</a> | September 2023 | October 2023 | ✅ |
+| <a href="https://stepik.org/cert/2182705?lang=en" style="text-decoration:none">Python Programming</a> | August 2023 | September 2023 | ✅ |
+| <a href="https://informatics.ru/" style="text-decoration:none">School of Programmers</a> | August 2018 | June 2023 | ✅ |
+
+
+
