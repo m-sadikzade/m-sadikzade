@@ -28,8 +28,9 @@
 <img src="https://img.shields.io/badge/Jupyter-033431?style=for-the-badge&logo=jupyter&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/PostgreSQL-1c2541?style=for-the-badge&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-1c2541?style=for-the-badge&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/ClickHouse-1c2541?style=for-the-badge&logo=ClickHouse&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Redash-1c2541?style=for-the-badge&logo=Redash&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/ClickHouse-1c2541?style=for-the-badge&logo=ClickHouse&logoColor=white"/>--> 
+
 
 <img src="https://img.shields.io/badge/Tabeau-191970?style=for-the-badge&logo=Tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Statistics-191970?style=for-the-badge"/> 
 <img src="https://img.shields.io/badge/Probability-191970?style=for-the-badge"/> 
