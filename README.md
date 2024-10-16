@@ -47,7 +47,7 @@
 ## My courses
 | Topic | Start | End | Done |
 | -------- | -------- | -------- | -------- |
-| <a href="https://github.com/m-sadikzade/Data_Analytics_course" style="text-decoration:none">Data Analyst from Karpov Courses</a> | May 2024 | October 2024 |   |
+| <a href="https://github.com/m-sadikzade/Data_Analytics_course" style="text-decoration:none">Data Analyst from Karpov Courses</a> | May 2024 | October 2024 |  |
 | <a href="https://stepik.org/cert/2191584?lang=en" style="text-decoration:none">Interactive SQL Simulator</a> | September 2023 | October 2023 | ✅ |
 | <a href="https://stepik.org/cert/2182705?lang=en" style="text-decoration:none">Python Programming</a> | August 2023 | September 2023 | ✅ |
 | <a href="https://informatics.ru/" style="text-decoration:none">School of Programmers</a> | August 2018 | June 2023 | ✅ |
