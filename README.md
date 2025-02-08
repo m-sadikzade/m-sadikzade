@@ -40,7 +40,7 @@
 
 ## My projects
 <ul> 
-<li> E-commerce - https://github.com/m-sadikzade/pet-projects/tree/master/Промежуточный%20проект%20e-commerce</li>
+<li> E-commerce - Nan</li>
 </ul>
 
 
